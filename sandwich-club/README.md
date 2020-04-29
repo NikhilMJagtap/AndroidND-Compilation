@@ -4,9 +4,10 @@
 In this project, you will complete the **Sandwich Club** app to
 show the details of each sandwich once it is selected.
 This is a simple project. It introduces to JSON parsng in Android.
+
 Screenshots of this simple app after completion is - 
-![Home Screen](screenshots/sandwich_main.png) 
-![Detail Screen](screenshots/sandwich_detail.png) 
+![Home Screen](screenshots/sandwich_main.png =360x720) 
+![Detail Screen](screenshots/sandwich_detail.png =360x720) 
 
 ## Why this Project
 
