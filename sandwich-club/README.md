@@ -6,6 +6,8 @@ show the details of each sandwich once it is selected.
 This is a simple project. It introduces to JSON parsng in Android.
 
 Screenshots of this simple app after completion is - 
+
+<br/>
 <img src="./screenshots/sandwich_main.png" width="360px" height="720px"/> 
 <img src="./screenshots/sandwich_detail.png" width="360px" height="720px"/>
 
