@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="movie_index_key">movie_index</string>
+    <string name="default_overview">This is default Overview</string>
+    <string name="overview_label">Overview</string>
+    <string name="default_vote">5/10</string>
+    <string name="vote_label">Vote</string>
+    <string name="duration_default">125 Mins</string>
+    <string name="duration_label">Duration:</string>
+    <string name="date_default">31 Jan, 2020</string>
+    <string name="date_label">Release Date:</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="detail_label">Details of Movie</string>
+    <string name="by_popularity">Sort by Popularity</string>
+    <string name="by_rating">Sort by Rating</string>
+    <string name="api_key">b8a250c4cf8f115654910f4aec143aa3</string>
+</resources>

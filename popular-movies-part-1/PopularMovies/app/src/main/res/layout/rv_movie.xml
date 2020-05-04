@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="150dp"
+    android:layout_height="wrap_content"
+    android:background="@color/background"
+    >
+    <ImageView
+        android:id="@+id/iv_movie_poster"
+        android:src="@color/white"
+        android:layout_width="135dp"
+        android:layout_height="225dp"
+        android:layout_margin="10dp"/>
+    <ProgressBar
+        android:id="@+id/pb_rating_bar"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_marginTop="-30dp"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:progress="100"
+        android:max="100"
+        android:layout_marginLeft="10dp"
+        android:progressDrawable="@drawable/circular"/>
+    <TextView
+        android:text="00"
+        android:id="@+id/tv_rating"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="18dp"
+        android:layout_marginTop="-23dp"
+        android:textSize="12sp"
+        android:textColor="@color/white"
+        android:layout_marginBottom="10dp"/>
+    <TextView
+        android:id="@+id/tv_movie_title"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:text="Title"
+        android:textSize="18sp"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"/>
+    <TextView
+        android:id="@+id/tv_movie_date"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="normal"
+        android:text="12 July 2020"
+        android:paddingBottom="5dp"
+        android:textColor="@color/white"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"/>
+</LinearLayout>
