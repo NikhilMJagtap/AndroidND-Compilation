@@ -7,7 +7,7 @@ Place this api-key in MovieDBUtils.java where you can find a TODO task.
 That's it. Build and run the app.
 
 ### Part II
-This was the starting point of the app as I said. In next part, I implemented functionalities to mark a movie as favourite, share it and watch trailers of that movie.
+This was the starting point of the app as I said. In next part, I implemented functionalities to mark a movie as favourite, share it and watch trailers of that movie. You can find it [here](https://github.com/NikhilMJagtap/AndroidND-Compilation/tree/master/popular-movies-part-1/PopularMovies)
 
 ### Screenshots
 <div style="float: left;">

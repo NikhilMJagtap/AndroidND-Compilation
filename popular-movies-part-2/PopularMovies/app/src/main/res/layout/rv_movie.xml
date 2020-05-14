@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/linearLayout"
+    android:layout_width="150dp"
+    android:layout_height="wrap_content"
+    android:background="@color/background"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/iv_movie_poster"
+        android:layout_width="150dp"
+        android:layout_height="225dp"
+        android:src="@color/white"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:layout_marginLeft="8dp"
+        android:layout_marginStart="8dp"/>
+
+    <TextView
+        android:id="@+id/tv_movie_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Title"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginLeft="8dp"
+        android:layout_marginStart="8dp"
+        app:layout_constraintLeft_toLeftOf="@+id/iv_movie_poster"
+        app:layout_constraintTop_toBottomOf="@+id/iv_movie_poster" />
+
+    <TextView
+        android:id="@+id/tv_movie_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingBottom="5dp"
+        android:text="12 July 2020"
+        android:textColor="@color/white"
+        android:textStyle="normal"
+        android:layout_marginLeft="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintLeft_toLeftOf="@+id/iv_movie_poster"
+        app:layout_constraintTop_toBottomOf="@+id/tv_movie_title"/>
+
+    <TextView
+        android:id="@+id/tv_rating"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="00"
+        android:textColor="@color/white"
+        android:textSize="12sp"
+        app:layout_constraintTop_toTopOf="@+id/pb_rating_bar"
+        app:layout_constraintBottom_toBottomOf="@+id/pb_rating_bar"
+        app:layout_constraintLeft_toLeftOf="@+id/pb_rating_bar"
+        app:layout_constraintRight_toRightOf="@+id/pb_rating_bar"/>
+    <ProgressBar
+        android:id="@+id/pb_rating_bar"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:max="100"
+        android:progress="100"
+        android:progressDrawable="@drawable/circular"
+        app:layout_goneMarginStart="8dp"
+        android:layout_marginStart="8dp"
+        app:layout_constraintLeft_toLeftOf="@+id/iv_movie_poster"
+        app:layout_constraintBottom_toTopOf="@+id/tv_movie_title"/>
+    <CheckBox
+        android:id="@+id/cb_fav"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:button="@android:drawable/btn_star"
+        app:layout_constraintLeft_toLeftOf="@+id/iv_movie_poster"
+        app:layout_constraintTop_toTopOf="@+id/iv_movie_poster"
+        android:background="@android:color/transparent"
+        android:visibility="gone"/>
+    <!--        TODO: fix this shortcut-->
+</androidx.constraintlayout.widget.ConstraintLayout>
