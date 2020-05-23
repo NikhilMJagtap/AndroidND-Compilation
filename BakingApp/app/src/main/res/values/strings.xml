@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BakingApp</string>
+    <string name="ing_title">ingredients</string>
+    <string name="steps_title">steps</string>
+    <string name="prepare">Prepare</string>
+    <string name="next">next</string>
+    <string name="that_s_it_time_to_eat">That\'s it! Time to eat :)</string>
+    <string name="previous">Previous</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+</resources>
