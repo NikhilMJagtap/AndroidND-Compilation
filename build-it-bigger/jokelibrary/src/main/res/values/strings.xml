@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">jokelibrary</string>
+    <string name="placeholder">Hello from library</string>
+</resources>
