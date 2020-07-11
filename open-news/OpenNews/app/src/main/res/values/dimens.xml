@@ -1,0 +1,46 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="navbar_bottom_padding">32dp</dimen>
+    <dimen name="username_bottom_padding">64dp</dimen>
+    <dimen name="text_margin_right">16dp</dimen>
+    <dimen name="tab_margin_top">16dp</dimen>
+    <dimen name="tabs_width">300dp</dimen>
+    <dimen name="edit_text_margin">32dp</dimen>
+    <dimen name="edit_text_max_width">300dp</dimen>
+    <dimen name="edit_text_width">300dp</dimen>
+    <dimen name="bottom_margin">32dp</dimen>
+    <dimen name="card_margin">8dp</dimen>
+    <dimen name="card_margin_horizontal">8dp</dimen>
+    <dimen name="main_image_width">300dp</dimen>
+    <dimen name="main_image_height">200dp</dimen>
+    <dimen name="text_margin">8dp</dimen>
+    <dimen name="card_max_height">90dp</dimen>
+    <dimen name="rv_image_height">80dp</dimen>
+    <dimen name="rv_image_width">120dp</dimen>
+    <dimen name="rv_image_margin">4dp</dimen>
+    <dimen name="card_view_elevation">6dp</dimen>
+    <dimen name="rv_margin">16dp</dimen>
+    <dimen name="detail_title_margin">8dp</dimen>
+    <dimen name="detail_box_margin">16dp</dimen>
+    <dimen name="detail_text_margin">16dp</dimen>
+    <dimen name="master_width">500dp</dimen>
+    <dimen name="content_font_size">16sp</dimen>
+    <dimen name="power_bottom_margin">16dp</dimen>
+    <dimen name="card_padding_horizontal">2dp</dimen>
+    <dimen name="card_padding_vertical">8dp</dimen>
+    <dimen name="title_size">16sp</dimen>
+    <dimen name="small_text_size">12sp</dimen>
+    <dimen name="detail_title_size">20sp</dimen>
+    <dimen name="detail_small_text_size">16sp</dimen>
+
+    <!--
+Refer to App Widget Documentation for margin information
+http://developer.android.com/guide/topics/appwidgets/index.html#CreatingLayout
+    -->
+    <dimen name="widget_margin">8dp</dimen>
+</resources>

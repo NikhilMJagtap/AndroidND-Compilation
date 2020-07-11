@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "495425759505",
+    "firebase_url": "https://opennews-01.firebaseio.com",
+    "project_id": "opennews-01",
+    "storage_bucket": "opennews-01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495425759505:android:8f3a7b1ac041e63a4cc4b0",
+        "android_client_info": {
+          "package_name": "com.example.opennews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495425759505-hfheuf4q56f9hqa79ku7ceit0f2jcoav.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.opennews",
+            "certificate_hash": "ee82b01fb56ffb3198c9d0502fdf8b473b807eac"
+          }
+        },
+        {
+          "client_id": "495425759505-7bq74lomfsf8add0f9ci0rc3cb6n9jkk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHm_8bBgVy7SuJSkyWIZREYOBeQoCfbXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495425759505-7bq74lomfsf8add0f9ci0rc3cb6n9jkk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

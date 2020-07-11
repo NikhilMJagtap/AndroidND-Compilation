@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tab_margin_top">16dp</dimen>
+    <dimen name="card_max_height">110dp</dimen>
+    <dimen name="rv_image_height">100dp</dimen>
+    <dimen name="rv_image_width">150dp</dimen>
+    <dimen name="rv_image_margin">6dp</dimen>
+    <dimen name="main_image_width">400dp</dimen>
+    <dimen name="main_image_height">240dp</dimen>
+    <dimen name="card_padding_horizontal">8dp</dimen>
+    <dimen name="card_padding_vertical">8dp</dimen>
+    <dimen name="small_text_size">12sp</dimen>
+</resources>
