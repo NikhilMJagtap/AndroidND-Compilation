@@ -5,8 +5,8 @@ This is the collection of Android Projects I developed while pursuing the <b>Adv
 	<li>Popular Movies - Part 2</li>
 	<li>Baking App</li>
 	<li>Build It Bigger</li>
-	<li>XYZ Reader</li>
 	<li>Capstone Project - OpenNews</li>
 </ul>
 This program was scheduled for six months in regular period, I completed it in a month with as a full time student.
 Here is a preview of some of the screens in each project. Each project has its own README.md which gives details about that project.
+
